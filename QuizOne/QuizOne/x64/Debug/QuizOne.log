@@ -1,0 +1,3 @@
+﻿  QuizOne.cpp
+C:\Users\gtura\source\repos\QuizOne\QuizOne\QuizOne.cpp(40,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QuizOne.vcxproj -> C:\Users\gtura\source\repos\QuizOne\x64\Debug\QuizOne.exe
