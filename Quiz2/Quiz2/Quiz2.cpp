@@ -33,6 +33,20 @@ void MaxBetweenThreeChar()
     cin >> input;
     characters.push_back(input[0]);
     cout << "Max value belongs to character \'" << max(characters) << "\'\n";
+    for(char character : characters)
+    {
+        cout << static_cast<int>(character) << " ";
+    }
+    cout << "\n";
+    for (char character : characters)
+    {
+        cout << character << " ";
+    }
+    cout << "\n";
+    for (char character : characters)
+    {
+        cout << ++character << " ";
+    }
 }
 int main()
 {
