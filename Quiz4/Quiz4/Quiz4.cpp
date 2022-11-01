@@ -8,7 +8,7 @@ using namespace std;
 //Note: Our company is very very very very very very very very strict regarding income file format, so no, it's not possibly containing typo
 enum Month 
 {
-    January,
+    January = 1,
     February,
     March,
     April,
