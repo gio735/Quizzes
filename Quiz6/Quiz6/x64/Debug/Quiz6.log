@@ -1,0 +1,5 @@
+﻿  Quiz6.cpp
+C:\Users\gtura\source\repos\Quiz6\Quiz6\Quiz6.cpp(71,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gtura\source\repos\Quiz6\Quiz6\Quiz6.cpp(72,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtura\source\repos\Quiz6\Quiz6\Quiz6.cpp(73,30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Quiz6.vcxproj -> C:\Users\gtura\source\repos\Quiz6\x64\Debug\Quiz6.exe
