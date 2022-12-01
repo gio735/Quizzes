@@ -12,6 +12,7 @@ int main()
     string word;
     ifstream myReader("text.txt");
     while (myReader >> word) words.push_back(word);
+    myReader.close();
     auto isEndOfSentence = [](string word)
     {
         switch (word[word.size() - 1])
