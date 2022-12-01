@@ -21,7 +21,7 @@ int main()
         case '?':
             return true;//Word is end of the sentence if it contains one of following symbols. If word has not any of them, it's not regarded as finished sentence even if it's end of the file!
             break;
-        }switch (word[word.size() - 1])
+        }switch (word[word.size() - 2])
         {
         case '.':
         case '!':
