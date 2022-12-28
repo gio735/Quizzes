@@ -1,0 +1,9 @@
+﻿  Quiz8TicTacToe.cpp
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(67,24): warning C4805: '!=': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(75,21): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(77,26): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(87,24): warning C4805: '!=': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(95,21): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(97,26): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\gtura\source\repos\Quiz8TicTacToe\Quiz8TicTacToe\TicTacToe.h(115): warning C4715: 'TicTacToe::ClassicVictoryCheck': not all control paths return a value
+  Quiz8TicTacToe.vcxproj -> C:\Users\gtura\source\repos\Quiz8TicTacToe\x64\Debug\Quiz8TicTacToe.exe
